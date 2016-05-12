@@ -13,4 +13,5 @@ Pod::Spec.new do |s|
 
   s.dependency 'React'
   s.dependency 'GoogleAnalytics'
+  s.dependency 'GoogleTagManager'
 end
